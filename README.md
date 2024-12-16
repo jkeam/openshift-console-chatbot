@@ -1,5 +1,11 @@
 # OpenShift Console Plugin Template
 
+## Prerequisite
+
+1. Tested using node v23.4.0
+
+## Notes
+
 This project is a minimal template for writing a new OpenShift Console dynamic
 plugin.
 
